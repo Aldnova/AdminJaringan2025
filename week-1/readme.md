@@ -45,12 +45,22 @@ Process-to-Process menggunakan transport layer yang membungkus data dalam bentuk
 
 
 3.	Tahapan komunikasi menggunakan TCP
-Tahapan komunikasi utama dalam penggunaaan TCP terdapat Establish Connection menggunakan Three-Way Handshake, Data Transmission, dan Connection Termination.
+
+&nbsp;Tahapan komunikasi utama dalam penggunaaan TCP terdapat Establish Connection menggunakan Three-Way Handshake, Data Transmission, dan Connection Termination.
+
+
 •	Tahap Komunikasi Pertama
- Melakukan Establish Connection dengan Three-Way Handshake yaitu dengan client mengirim segmen SYN ke server untuk memulai koneksi, lalu server merespons dengan SYN-ACK, setelah itu, client membalas dengan ACK terakhir. Setelah proses ini selesai, koneksi TCP antar client dan server telah terbentuk.
+
+&nbsp;Melakukan Establish Connection dengan Three-Way Handshake yaitu dengan client mengirim segmen SYN ke server untuk memulai koneksi, lalu server merespons dengan SYN-ACK, setelah itu, client membalas dengan ACK terakhir. Setelah proses ini selesai, koneksi TCP antar client dan server telah terbentuk.
+ 
 •	Tahap Komunikasi Kedua 
-Dilakukannya Data Transmission atau proses pengiriman data. Saat data dikirim, data tersebut akan di pecah menjadi segmen-segmen yang berukuran sama atau kurang. Setiap segmen yang terpecah memiliki sequence number masing masing yang dimana saat diterima oleh server akan mengirimkan ACK kepada client. Jika server tidak menerima pecahan segmen, maka TCP akan mengirimkan ulang segmen yang belum diterima.
+
+
+&nbsp;Dilakukannya Data Transmission atau proses pengiriman data. Saat data dikirim, data tersebut akan di pecah menjadi segmen-segmen yang berukuran sama atau kurang. Setiap segmen yang terpecah memiliki sequence number masing masing yang dimana saat diterima oleh server akan mengirimkan ACK kepada client. Jika server tidak menerima pecahan segmen, maka TCP akan mengirimkan ulang segmen yang belum diterima.
+
 •	Tahap Komunikasi Ketiga 
-Connection Termination adalah proses terminasi koneksi antar client dan server. Proses ini dimulai saat salah satu pihak (client atau server) mengirim segmen FIN untuk mengakhiri transmisi. Pihak lain merespons dengan ACK dan juga mengirim FIN untuk memutuskan koneksi. Setelah itu pengirim akan menutup koneksi setelah menerima ACK terakhir.
+
+
+&nbsp;Connection Termination adalah proses terminasi koneksi antar client dan server. Proses ini dimulai saat salah satu pihak (client atau server) mengirim segmen FIN untuk mengakhiri transmisi. Pihak lain merespons dengan ACK dan juga mengirim FIN untuk memutuskan koneksi. Setelah itu pengirim akan menutup koneksi setelah menerima ACK terakhir.
 
 
