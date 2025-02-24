@@ -19,22 +19,22 @@
 Tugas I
 1.	Analisa file http.cap menggunakan Wireshark 
 Jawab:
-<img src="1.png" alt="1">
+<img src="assets/1.png" alt="1">
 Versi HTTP yang digunakan adalah versi 1.1
-<img src="2.png" alt="2">
+<img src="assets/2.png" alt="2">
 IP address yang digunakan client adalah 145.254.160.237
 IP address yang digunakan server adalah 65.208.228.223
-<img src="3.png" alt="3">
+<img src="assets/3.png" alt="3">
 Waktu dari client mengirimkan HTTP request adalah 0.911310
-<img src="4.png" alt="4">
+<img src="assets/4.png" alt="4">
 Waktu dari server mengirimkan server adalah 3.955688
-<img src="5.png" alt="5">
+<img src="assets/5.png" alt="5">
 Durasi untuk menyelesaikan sesi HTTP request adalah 4,846969 - 3.955688 = 0,891281
 
 
 
 2.  Deskripsikan Gambar Pada Slide
-<img src="6.png" alt="6">
+<img src="assets/6.png" alt="6">
 Penjelasan: Gambar tersebut menunjukkan tentang proses Node-to-Node dalam Data Link Layer, Host-to-Host dalam Network Layer, dan Process-to-Process dalam Transport Layer
 Node-to-Node mengggunakan Data Link Layer yang membungkus data dalam bentuk frame yang berisi dengan alamat fisik (MAC address), error detection, dan flow control.
 
