@@ -49,5 +49,5 @@ Tugas 2 : Instalasi Virtual Box Pada Komputer Lab
      * Penyimpanan: 10 GB
 
 9. Biarkan proses pembuatan Virtual Machine berjalan sebelum dapat digunakan
-   <img src="assets/9.png" alt="gambar 9">
+   <img src="assets/9.jpg" alt="gambar 9">
 
