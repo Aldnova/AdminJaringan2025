@@ -1,56 +1,16 @@
 <div align="center">
-  <h1 style="text-align: center;font-weight: bold">LAPORAN RESMI<br>WORKSHOP ADMINISTRASI JARINGAN</h1>
-  <h4 style="text-align: center;">Dosen Pengampu : Dr. Ferry Astika Saputra, S.T., M.Sc.</h4>
+  <h1 class="text-align: center;font-weight: bold"><h1>Workshop Administrasi Jaringan</h1>
+  <h3 class="text-align: center;">Dosen Pengampu : Dr. Ferry Astika Saputra, S.T., M.Sc.</h3>
 </div>
 <br />
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/id/4/44/Logo_PENS.png" alt="Logo PENS">
-  <h3 style="text-align: center;">Disusun Oleh : </h3>
-  <p style="text-align: center;">
-    <strong>Ale Perdana Putra Darmawan (3123500027) </strong><br>
+  <div align="center">
+  <h3 style="text-align: center;">Disusun Oleh :</h3>
+ <p style="text-align: center;">
+    <em>Muhammad Rasyid Rafif (3122500030)</em>
   </p>
-<h3 style="text-align: center;line-height: 1.5">Politeknik Elektronika Negeri Surabaya<br>Departemen Teknik Informatika Dan Komputer<br>Program Studi Teknik Informatika<br>2024/2025</h3>
-  <hr><hr>
 </div>
-
-## Daftar Isi
-- [Daftar Isi](#daftar-isi)
-- [Dasar Teori](#dasar-teori)
-  - [Pengertian DNS](#pengertian-dns)
-  - [Fitur-Fitur DNS](#fitur-fitur-dns)
-  - [Domains dan Namespaces](#domains-dan-namespaces)
-  - [Zones and Delegation Zone](#zones-and-delegation-zone)
-  - [Nameservers](#nameservers)
-  - [DNS Resource Records](#dns-resource-records)
-  - [DNS Query](#dns-query)
-- [Perintah-Perintah DNS](#perintah-perintah-dns)
-  - [`Less /etc/nsswitch.conf`](#less-etcnsswitchconf)
-  - [`less /etc/host.conf`](#less-etchostconf)
-  - [`nano /etc/hosts`](#nano-etchosts)
-  - [`sudo less /etc/resolv.conf`](#sudo-less-etcresolvconf)
-  - [`nslookup`](#nslookup)
-  - [`less /usr/share/dns/root.hints`](#less-usrsharednsroothints)
-- [Ekosistem Internet](#ekosistem-internet)
-  - [Internet](#internet)
-  - [IP Addressing \& Routing System](#ip-addressing--routing-system)
-  - [Routing](#routing)
-  - [Peering Connections](#peering-connections)
-  - [Edge Provider Routing Policy](#edge-provider-routing-policy)
-  - [Transit Provider Routing Policy](#transit-provider-routing-policy)
-  - [Content Provider Routing Policy](#content-provider-routing-policy)
-  - [Naming System](#naming-system)
-  - [Root Servers](#root-servers)
-  - [Standards Organizations](#standards-organizations)
-  - [Internet Engineering Task Force (IETF)](#internet-engineering-task-force-ietf)
-  - [Service Providers](#service-providers)
-  - [Internet Exchange Point (IXP)](#internet-exchange-point-ixp)
-  - [Registries](#registries)
-  - [Top Level Registries](#top-level-registries)
-  - [Second Tier Registries](#second-tier-registries)
-  - [Clearing Houses](#clearing-houses)
-  - [Internet Route Registries (IRR)](#internet-route-registries-irr)
-  - [Network Operators Groups (NOGs)](#network-operators-groups-nogs)
-- [Instalasi DNS Server](#instalasi-dns-server)
 
 ## Dasar Teori
 ### Pengertian DNS
