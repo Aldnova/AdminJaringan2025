@@ -1,21 +1,16 @@
-# Laporan Praktikum Workshop Administrasi Jaringan Week-5
-
-<p align="center">
-  <img src="./img/pens.png" alt="gambar" width="400">
-</p>
-
-## Dosen Pengampu  
-**Dr. Ferry Astika Saputra, ST, M.Sc**  
-
-## Disusun Oleh  
-- **Nama**: Muhammad Arief Wicaksono Putra Santoso  
-- **Kelas**: 2 D3 IT A  
-- **NRP**: 3123500022  
-- **Program Studi**: D3 Teknik Informatika  
-- **Politeknik Elektronika Negeri Surabaya**  
-- **Tahun Ajaran**: 2025/2026  
-
----
+div align="center">
+  <h1 class="text-align: center;font-weight: bold"><h1>Workshop Administrasi Jaringan</h1>
+  <h3 class="text-align: center;">Dosen Pengampu : Dr. Ferry Astika Saputra, S.T., M.Sc.</h3>
+</div>
+<br />
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/id/4/44/Logo_PENS.png" alt="Logo PENS">
+  <div align="center">
+  <h3 style="text-align: center;">Disusun Oleh :</h3>
+ <p style="text-align: center;">
+    <em>Muhammad Rasyid Rafif (3122500030)</em>
+  </p>
+</div>
 
 ## Daftar Isi
 - [Laporan Praktikum Workshop Administrasi Jaringan Week-5](#laporan-praktikum-workshop-administrasi-jaringan-week-5)
