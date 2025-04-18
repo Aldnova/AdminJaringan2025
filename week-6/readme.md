@@ -12,17 +12,6 @@
   </p>
 </div>
 
-## Daftar Isi
-- [Laporan Praktikum Workshop Administrasi Jaringan Week-5](#laporan-praktikum-workshop-administrasi-jaringan-week-5)
-  - [Dosen Pengampu](#dosen-pengampu)
-  - [Disusun Oleh](#disusun-oleh)
-  - [Daftar Isi](#daftar-isi)
-  - [Instalasi Virtual Machine No-GUI (VM 1)](#instalasi-virtual-machine-no-gui-vm-1)
-  - [Konfigurasi Virtual Machine No-GUI (VM 1)](#konfigurasi-virtual-machine-no-gui-vm-1)
-  - [Instalasi NTP Client](#instalasi-ntp-client)
-  - [Instalasi Samba](#instalasi-samba)
-  - [Instalasi Bind9 (DNS)](#instalasi-bind9-dns)
----
 
 ## Instalasi Virtual Machine No-GUI (VM 1)
 Step 1:<br>
