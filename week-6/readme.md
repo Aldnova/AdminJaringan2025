@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
   <h1 class="text-align: center;font-weight: bold"><h1>Workshop Administrasi Jaringan</h1>
   <h3 class="text-align: center;">Dosen Pengampu : Dr. Ferry Astika Saputra, S.T., M.Sc.</h3>
 </div>
