@@ -12,6 +12,10 @@
   </p>
 </div>
 
+<h3 style="text-align: center;line-height: 1.5">Politeknik Elektronika Negeri Surabaya<br>Departemen Teknik Informatika Dan Komputer<br>Program Studi Teknik Informatika<br>2023/2024</h3>
+  <hr><hr>
+</div>
+
 ## Setting mikrotik
 
 ### 1. Tambah IP STATIS Kelompok lain ( Kelompok 1-10) beserta gatewaynya masing masing.
